@@ -15,27 +15,7 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 ## Screenshots
 ### Exercício 1 (Médio) - [Non-Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/)
 [**Código:**](https://github.com/projeto-de-algoritmos/Greed_Exercicios_LeetCode/blob/master/Non-OverlappingIntervals/nonOverlappingIntervals.py)<br>
-![Non-Overlapping Intervals](print do código accepted)
-
-### Exercício 2 (Médio) - [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)
-[**Código:**](https://github.com/projeto-de-algoritmos/Grafos2_Exercises_LeetCode/blob/master/CheapestFlights/cheapest.py)<br>
-![Cheapest Flights Within K Stops](/assets/approval_Cheapest.PNG)
-
-### Exercício 3 (Difícil) - [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/)
-[**Código:**](https://github.com/projeto-de-algoritmos/Grafos2_Exercises_LeetCode/blob/master/SwimRisingWater/swim.py)<br>
-![Swim in Rising Water](/assets/Approval_Swim.PNG)
-
-### Exercício 4 (Médio) - [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/description/)
-[**Código:**](https://github.com/projeto-de-algoritmos/Grafos2_Exercises_LeetCode/blob/master/PathWithMinimumEffort/pathWithMinimumEffort.py)<br>
-![Path With Minimum Effort](/assets/PathWithMinimumEffort_Resultado.png)
-
-### Exercício 5 (Médio) - [Smallest Number of Neighbors](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/)
-[**Código:**](https://github.com/projeto-de-algoritmos/Grafos2_Exercises_LeetCode/blob/master/SmallestNumberOfNeighbors/smallestNumberOfNeighbors.py)<br>
-![Smallest Number of Neighbors](/assets/SmallestNumberOfNeighbors_Resultado.png)
-
-### Exercício 6 (Difícil) - [Shortest Path With Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/)
-[**Código:**](https://github.com/projeto-de-algoritmos/Grafos2_Exercises_LeetCode/blob/master/ShortestPathWithObstaclesElimination/shortestPathWithObstaclesElimination.py)<br>
-![Shortest Path With Obstacles Elimination](/assets/ShortestPathWithObstaclesElimination_Resultado.png)
+![Non-Overlapping Intervals](/assets/NonOverlappingIntervals_Resultado.png)
 
 ### Vídeo de Apresentação
 [Link para o Vídeo de Apresentação da Dupla 1](Link do vídeo no youtube)
