@@ -17,6 +17,10 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 [**Código:**](https://github.com/projeto-de-algoritmos/Greed_Exercicios_LeetCode/blob/master/Non-OverlappingIntervals/nonOverlappingIntervals.py)<br>
 ![Non-Overlapping Intervals](/assets/NonOverlappingIntervals_Resultado.png)
 
+### Exercício 2 (Médio) - [Coin Change](https://leetcode.com/problems/coin-change/description/)
+[**Código:**](https://github.com/projeto-de-algoritmos/Greed_Exercicios_LeetCode/blob/master/CoinChange/coinChange.py)<br>
+![Coin Change](/assets/CoinChange_Resultado.png)
+
 ### Vídeo de Apresentação
 [Link para o Vídeo de Apresentação da Dupla 1](Link do vídeo no youtube)
 
