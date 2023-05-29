@@ -21,6 +21,10 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 [**Código:**](https://github.com/projeto-de-algoritmos/Greed_Exercicios_LeetCode/blob/master/CoinChange/coinChange.py)<br>
 ![Coin Change](/assets/CoinChange_Resultado.png)
 
+### Exercício 3 (Difícil) - [Course Schedule 3](https://leetcode.com/problems/course-schedule-iii/description/)
+[**Código:**](https://github.com/projeto-de-algoritmos/Greed_Exercicios_LeetCode/blob/master/CourseSchedule3/courseSchedule3.py)<br>
+![Course Schedule 3](/assets/CourseSchedule3_Resultado.png)
+
 ### Vídeo de Apresentação
 [Link para o Vídeo de Apresentação da Dupla 1](Link do vídeo no youtube)
 
