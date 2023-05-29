@@ -25,6 +25,19 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 [**Código:**](https://github.com/projeto-de-algoritmos/Greed_Exercicios_LeetCode/blob/master/CourseSchedule3/courseSchedule3.py)<br>
 ![Course Schedule 3](/assets/CourseSchedule3_Resultado.png)
 
+### Exercício 4 (Médio) - [Car Pooling](https://leetcode.com/problems/car-pooling/description/)
+[**Código:**](https://github.com/projeto-de-algoritmos/Greed_Exercicios_LeetCode/blob/master/Car%20Pooling/car.py)<br>
+![Car Pooling](/assets/CarPooling_Working.PNG)
+
+### Exercício 5 (Médio) - [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
+[**Código:**](https://github.com/projeto-de-algoritmos/Greed_Exercicios_LeetCode/blob/master/Merge%20Intervals/merge.py)<br>
+![Merge Intervals](/assets/MergeIntervals_Working.PNG)
+
+### Exercício 6 (Difícil) - [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/description/)
+[**Código:**](https://github.com/projeto-de-algoritmos/Greed_Exercicios_LeetCode/blob/master/Maximum%20Number%20of%20Non-Overlapping%20Substrings/max.py)<br>
+![Maximum Number of Non-Overlapping Substrings](/assets/Max_Working.PNG)
+
+
 ### Vídeo de Apresentação
 [Link para o Vídeo de Apresentação da Dupla 1](Link do vídeo no youtube)
 
