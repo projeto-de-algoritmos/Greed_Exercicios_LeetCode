@@ -39,7 +39,7 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 
 
 ### Vídeo de Apresentação
-[Link para o Vídeo de Apresentação da Dupla 1](Link do vídeo no youtube)
+[Link para o Vídeo de Apresentação da Dupla 1](https://youtu.be/gpVkudadURE)
 
 ## Instalação 
 **Linguagem**: Python<br>
