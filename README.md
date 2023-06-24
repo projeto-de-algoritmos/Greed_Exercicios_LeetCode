@@ -39,7 +39,9 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 
 
 ### Vídeo de Apresentação
-[Link para o Vídeo de Apresentação da Dupla 1](https://youtu.be/gpVkudadURE)
+[Link para o Vídeo de Apresentação da Dupla 1 - YouTube](https://youtu.be/gpVkudadURE)
+
+https://github.com/projeto-de-algoritmos/Greed_Exercicios_LeetCode/assets/78980903/f30c4060-4e15-4c1b-b5d0-f22431fbfde6
 
 ## Instalação 
 **Linguagem**: Python<br>
